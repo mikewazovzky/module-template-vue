@@ -75,22 +75,22 @@ export default {
     bottom: 25px;
 }
 .alert-success {
-    background-color: #00b1b3;
+    background-color: #55B4B0;
     color: #fff;
 }
 
 .alert-info {
-    background-color: blue;
+    background-color: #4C6A92;
     color: #fff;
 }
 
 .alert-warning {
-    background-color: orange;
+    background-color: #FED85D;
     color: #777;
 }  
 
 .alert-danger {
-    background-color: red;
+    background-color: #B93A32;
     color: #fff;
 }  
 
