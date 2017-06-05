@@ -1,7 +1,7 @@
 {
   "name": "module-template-vue",
   "description": "Use template to publish Vue.js component(s) as npm module",
-  "version": "0.0.15",
+  "version": "0.1.0",
   "author": "mikewazovzky <mike.wazovzky@gmail.com>",
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules",

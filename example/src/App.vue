@@ -8,8 +8,8 @@
       <li><a href="https://gitter.im/vuejs/vue" target="_blank">Gitter Chat</a></li>
       <li><a href="https://twitter.com/vuejs" target="_blank">Twitter</a></li>
     </ul>
-    <h2>Vue Template Component:</h2>    
-    <flash></flash> 
+    <h2>Vue Template Component Example</h2>    
+    <flash data="Some text" events="on"></flash> 
   </div>
 </template>
 
