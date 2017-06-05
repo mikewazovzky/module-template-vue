@@ -2,10 +2,10 @@
 ### Description
 Use template to publish Vue.js component(s) as npm module.    
 Example <flash> component included.
-### Version 0.1.0 Level's colors updated
+### Version 0.1.1 Level's colors updated
 ### Change log
 0.0.1 Original project setup   
-0.1.0 Example <flash> component added
+0.1.0 Example <flash> component added  
 0.1.1 Level's colors updated
 ### Installation
 Run
